@@ -493,13 +493,14 @@ EVENT DAY
   </div>
 </body>
 </html>
+
 # OUTPUT:
-![banner](https://github.com/user-attachments/assets/08974879-e4bd-4326-9a02-05e956b71b9a)
-![event days](https://github.com/user-attachments/assets/c60eb794-babe-4883-99ea-e87520ab4239)
-![icems](https://github.com/user-attachments/assets/a5ea147b-f0e1-474c-b030-6c47021e6ed5)
-![hackathon](https://github.com/user-attachments/assets/02d74246-0c53-4731-ab6e-a6dc4031a45c)
-![flash mob](https://github.com/user-attachments/assets/12454de1-6e8c-447f-9e71-f577b42bc718)
-![celenza](https://github.com/user-attachments/assets/044ab417-0cc8-4ffa-bc3d-be8366604580)
+<img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/7feb0ce1-005c-4ae7-8127-acea8f926661" />
+<img width="1280" height="645" alt="image" src="https://github.com/user-attachments/assets/d43853ee-d1f1-487f-a95e-37cbdc291345" />
+<img width="1280" height="647" alt="image" src="https://github.com/user-attachments/assets/3c3409fc-df86-4557-ad5c-b843f44c882a" />
+<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/158f3f07-cee1-4621-a431-30314b6dd835" />
+<img width="1280" height="645" alt="image" src="https://github.com/user-attachments/assets/4b3b19ad-44f2-48ba-8f9b-a8510f779f12" />
+<img width="1280" height="642" alt="image" src="https://github.com/user-attachments/assets/c8f23d54-d8d4-4260-8d95-2d142bbc142a" />
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
